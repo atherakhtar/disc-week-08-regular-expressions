@@ -1,8 +1,3 @@
----
-layout: hw
-title: Discussion Week 8
----
-
 # Regular Expressions
 
 ## Overview
